@@ -1,0 +1,14 @@
+theme = iTerm2 Pastel Dark Background
+cursor-color = "#9580FF"
+cursor-style = "block"
+window-inherit-working-directory = false
+shell-integration-features = no-cursor,sudo,no-title
+macos-titlebar-proxy-icon = hidden
+macos-icon = blueprint
+macos-icon-frame = beige
+font-thicken = true
+font-thicken-strength = 255
+bell-features = no-title
+macos-window-shadow = false
+font-style = Heavy
+font-family = DepartureMono Nerd Font
